@@ -55,7 +55,8 @@ Deep Learning, CNN, Financial Performance Evaluation, Enterprise Analytics, SOM 
 
 ## Manuscript
 
-[Read the Paper](Analysis%20of%20the%20Enterprise%20Financial%20Performance%20Evaluation%20based%20on%20deep%20convolutional%20neural%20network%20Bangxuan%20Li.pdf)
+[Read the Paper](Analysis%20of%20the%20Enterprise%20Financial%20Performance%20Evaluation%20Based%20on%20Deep%20Convolutional%20Neural%20Network%20Bangxuan%20Li.pdf)
+
 
 ---
 
